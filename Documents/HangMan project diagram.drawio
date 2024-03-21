@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-01-23T10:37:04.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mTlvWDxf1MYRq5Dn2ivC" version="22.1.21" type="device">
+  <diagram name="Page-1" id="a0CFNy6k96lMrEwRYwuE">
+    <mxGraphModel dx="1032" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QlF3QVb4xvWFSIL9JBi-1" target="_QlF3QVb4xvWFSIL9JBi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-1" value="&lt;p style=&quot;line-height: 110%; font-size: 21px;&quot;&gt;&lt;b&gt;نسأل المستخدم يخمن الحرف&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-170" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QlF3QVb4xvWFSIL9JBi-4" target="_QlF3QVb4xvWFSIL9JBi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QlF3QVb4xvWFSIL9JBi-4" target="_QlF3QVb4xvWFSIL9JBi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;if&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QlF3QVb4xvWFSIL9JBi-6" target="_QlF3QVb4xvWFSIL9JBi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-6" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;لو خمن الحرف صح&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_QlF3QVb4xvWFSIL9JBi-8" target="_QlF3QVb4xvWFSIL9JBi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-8" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;لو خمن الرحف غلط&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="20" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-11" value="هنقوله الحرف غلط و خمن تاني&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_QlF3QVb4xvWFSIL9JBi-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
